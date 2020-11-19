@@ -1,0 +1,5 @@
+str1=input()
+list1=str1.split()
+l=list(str1)
+print(list1)
+print(l)
