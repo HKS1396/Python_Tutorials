@@ -1,0 +1,4 @@
+Drank Water at 2020-11-29 10:49:19.658965
+2020-11-29 10:52:42.958884 : Drank Water
+2020-11-29 10:52:50.519853 : Did eyes exercise
+2020-11-29 10:52:54.791974 : Did eyes exercise
